@@ -80,3 +80,23 @@
 
 
 
+.b17{
+    border: 2px solid red;
+    grid-column: 1/12;
+    grid-row: 1/12;
+}
+.b18{
+    border: 2px solid red;
+   grid-column: 1/7; 
+}
+.b19{
+    border: 2px solid red;
+   grid-column: 7/12; 
+}.b20{
+    border: 2px solid red;
+    grid-column: 1/4;
+}
+.b21{
+    border: 2px solid red;
+   grid-column: 4/8; 
+}
