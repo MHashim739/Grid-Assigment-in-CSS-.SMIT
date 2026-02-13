@@ -129,26 +129,6 @@
    grid-column: 12/13; 
 }
 
-/* box 2 Grid */
-.daughter{
-    display: grid;
-     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(12, 1fr);
-    gap: 2px;
-}
-.box{
-    background-color: green;
-    border: 2px solid red;
-}
-.aa{
-    grid-row: 1/12;
-    grid-column: 1/7;
-}
-.bb{
-    grid-row: 1/7;
-    grid-column: 1/3;
-}
-.cc{
-    grid-row: 7/13;
-    grid-column: 3/7;
-}
+
+
+
