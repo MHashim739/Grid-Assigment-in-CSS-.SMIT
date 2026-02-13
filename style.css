@@ -1,6 +1,6 @@
 *{
-    margin: 5px 20px;
-    padding: 20px 0px;
+    margin: 2px 20px;
+    padding: 20px ;
 }
 .parent{
     display: grid;
@@ -16,7 +16,6 @@
 .b1{
     border: 2px solid red;
     grid-column: 1/12;
-    grid-row: 1/12;
 }
 .b2{
     border: 2px solid red;
@@ -82,21 +81,47 @@
 
 .b17{
     border: 2px solid red;
-    grid-column: 1/12;
-    grid-row: 1/12;
+    grid-column: 1/2;
 }
 .b18{
     border: 2px solid red;
-   grid-column: 1/7; 
+   grid-column: 2/3; 
 }
 .b19{
     border: 2px solid red;
-   grid-column: 7/12; 
+   grid-column: 3/4; 
 }.b20{
     border: 2px solid red;
-    grid-column: 1/4;
+    grid-column: 4/5;
 }
 .b21{
     border: 2px solid red;
-   grid-column: 4/8; 
+   grid-column: 5/6; 
+}
+.b22{
+    border: 2px solid red;
+    grid-column: 6/7;
+}
+.b23{
+    border: 2px solid red;
+   grid-column: 7/8; 
+}
+.b24{
+    border: 2px solid red;
+   grid-column: 8/9; 
+}.b25{
+    border: 2px solid red;
+    grid-column: 9/10;
+}
+.b26{
+    border: 2px solid red;
+   grid-column: 10/11; 
+}
+.b27{
+    border: 2px solid red;
+    grid-column: 11/12;
+}
+.b28{
+    border: 2px solid red;
+   grid-column: 12/12; 
 }
